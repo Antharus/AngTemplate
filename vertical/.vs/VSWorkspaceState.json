@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\layout",
+    "\\src\\app\\layout\\admin",
+    "\\src\\app\\theme",
+    "\\src\\app\\theme\\table",
+    "\\src\\app\\theme\\table\\data-table",
+    "\\src\\app\\theme\\table\\data-table\\table-basic-data",
+    "\\src\\assets",
+    "\\src\\assets\\data",
+    "\\src\\assets\\images"
+  ],
+  "SelectedNode": "\\src\\app\\theme\\table\\data-table\\row-details\\row-details.component.html",
+  "PreviewInSolutionExplorer": false
+}
